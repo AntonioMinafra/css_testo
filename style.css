@@ -1,0 +1,24 @@
+
+body {
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 10px;/*distanza tra una lettere e l altra*/
+
+}
+p {
+    text-align:right;
+    color: red;
+    font-family: arial 'Trebuchet MS' Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 800 bold;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 4px 4px 5px red; /* 1.distanza ombra in orrizontale 2.in verticale e poi il grado si sfocatur a poi il colore
+    se metti tutti e due va in diagonale */
+    line-height: 20px; /*distanza tra le righe*/
+    word-spacing: 10px; /*distanza tra una parola e l 'altra*/
+    /*ci sono tante altre proprietà che scoprirai nel tempo*/
+}
